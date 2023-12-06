@@ -42,7 +42,6 @@ return 0;
 //it is adaptable 
 //It is a stable algorithm
 //used for small size
-// maximum number of swaps=n*(n-1)/2
 //Space complexity - O(1) as no extra array is being created
 // Time cpmplexity - best case-O(n)
 //                   wost case-O(n^2)
